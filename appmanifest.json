@@ -1,0 +1,10 @@
+{
+	"name": "Minecraft Heads",
+	"short_name": "Minecraft Heads",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
